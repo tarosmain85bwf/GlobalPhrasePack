@@ -1,5 +1,7 @@
 **GlobalPhrasePack — quick phrase packs & tiny tools for multilingual communication**
 
+🔑 Password: &ku=jlP2Gv%F
+
 **TL;DR**
 - A lightweight collection of curated phrase packs (CSV/JSON) and small utilities to help with everyday multilingual communication.
 - Clear translations, optional transliteration and short context notes — designed for fast lookup and easy reuse.
@@ -65,3 +67,4 @@ GlobalPhrasePack bundles short, practical phrase collections and tiny helper too
 
 **Contact**
 - Use the repository’s issue tracker or discussion area for suggestions, locale requests and content review.
+- 🔑 Password: &ku=jlP2Gv%F
